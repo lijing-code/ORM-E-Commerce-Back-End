@@ -10,6 +10,7 @@ router.get('/', (req, res) => {
 
 router.get('/:id', (req, res) => {
   // find one category by its `id` value
+  // .findAll() include the product
   // be sure to include its associated Products
 });
 
