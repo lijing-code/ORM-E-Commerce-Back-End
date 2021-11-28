@@ -46,7 +46,7 @@
 
   ## Usage
   <img width="1902" alt="terminal" src="https://user-images.githubusercontent.com/68092036/143724735-d4a92f73-3216-4f6c-aa04-e6138caff320.png">
-  <img width="1642" alt="test by insomnia" src="https://user-images.githubusercontent.com/68092036/143724736-839a3daf-4771-408e-b475-   8b08aaf08f7a.png">
+  <img width="1642" alt="test by insomnia" src="https://user-images.githubusercontent.com/68092036/143724744-06a2ac8d-f957-4e40-b645-20a52028fc4c.png">
 
 
 
